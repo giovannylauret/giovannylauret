@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @giovannylauret
+- 👀 I’m interested in all the data activities : NLP, text analysis, pipeline and job management...
+- 🌱 I’m currently working as a data engineer.
